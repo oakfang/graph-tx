@@ -1,6 +1,6 @@
 # graph-tx
 
-Isolated Transactions for the graph-core graph
+Isolated Transactions for the @xgraph/core graph
 
 ## Usage
 

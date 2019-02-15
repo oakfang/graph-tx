@@ -90,6 +90,13 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
+"@xgraph/core@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@xgraph/core/-/core-1.0.0.tgz#c9b3359db8c1cf2f7eb041c93ad4774b81213dab"
+  integrity sha512-NrXaxXBHiCV+xDqsR+3b2OwnUjEK6Ky3FpiPzwPr+aZ1aWlmTjMJYXzYcYsH0yWypqufKn3T6LGsGW58HtLy9A==
+  dependencies:
+    itercol "^2.1.0"
+
 ansi-regex@^2.0.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-2.1.1.tgz#c3b33ab5ee360d86e0e628f0468ae7ef27d654df"
@@ -403,12 +410,6 @@ graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.2:
   version "4.1.15"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.1.15.tgz#ffb703e1066e8a0eeaa4c8b80ba9253eeefbfb00"
   integrity sha512-6uHUhOPEBgQ24HM+r6b/QwWfZq+yiFcipKFrOFiBEnWdy5sdzYoi+pJeQaPI5qOLRFqWmAXUPQNsielzdLoecA==
-
-graph-core@oakfang/graph-core:
-  version "2.0.3"
-  resolved "https://codeload.github.com/oakfang/graph-core/tar.gz/159cc28d1bfc49dc14123beb2ffb1b3e9bcdd9d1"
-  dependencies:
-    itercol "^2.1.0"
 
 handlebars@^4.1.0:
   version "4.1.0"
