@@ -404,10 +404,9 @@ graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.2:
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.1.15.tgz#ffb703e1066e8a0eeaa4c8b80ba9253eeefbfb00"
   integrity sha512-6uHUhOPEBgQ24HM+r6b/QwWfZq+yiFcipKFrOFiBEnWdy5sdzYoi+pJeQaPI5qOLRFqWmAXUPQNsielzdLoecA==
 
-graph-core@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/graph-core/-/graph-core-2.0.2.tgz#277790b9a10966637d9c6c6f373e9fe22ae87eba"
-  integrity sha512-8rHZoV3cGA4dgND132CdGcSg9A30UevMHazOOdwsQgXW+LY8ya40Bc6JA2ipv6I2KlcVk6ADD3LlrUVUk440gA==
+graph-core@oakfang/graph-core:
+  version "2.0.3"
+  resolved "https://codeload.github.com/oakfang/graph-core/tar.gz/159cc28d1bfc49dc14123beb2ffb1b3e9bcdd9d1"
   dependencies:
     itercol "^2.1.0"
 
